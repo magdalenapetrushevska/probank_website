@@ -2,7 +2,7 @@
 
 Welcome to **Pro Bank**, a modern and sleek banking landing page designed to showcase the future of digital banking. This project is a **fake banking website** created for demonstration purposes only. It is not affiliated with any real financial institution and does not handle real transactions or sensitive data.
 
-Visit the live demo here: TO BE DONE
+Visit the live demo here: work in progress ...
 
 ---
 
