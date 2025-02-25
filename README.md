@@ -65,7 +65,6 @@ To run this project locally, follow these steps:
 
 ```
 npm install
-Start the development server:
 ```
 
 3. **Start the development server**:
