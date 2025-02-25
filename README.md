@@ -2,7 +2,11 @@
 
 Welcome to **Pro Bank**, a modern and sleek banking landing page designed to showcase the future of digital banking. This project is a **fake banking website** created for demonstration purposes only. It is not affiliated with any real financial institution and does not handle real transactions or sensitive data.
 
+<<<<<<< HEAD
 Visit the live demo here: work in progress ...
+=======
+Visit the live demo here: (https://probank.netlify.app/)
+>>>>>>> a5c16f35e9e655e3601c2cade610ab24d4dfc9d9
 
 ---
 
@@ -47,7 +51,7 @@ This project is purely for **educational and portfolio purposes** and does not r
 - **Animations**:
   - [Framer Motion](https://www.framer.com/motion/) for smooth animations
 - **Deployment**:
-  - Hosted on [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)  // work in progress ...
+  - Hosted on [Netlify](https://www.netlify.com/) 
 
 ---
 
@@ -65,7 +69,6 @@ To run this project locally, follow these steps:
 
 ```
 npm install
-Start the development server:
 ```
 
 3. **Start the development server**:
