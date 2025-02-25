@@ -2,11 +2,7 @@
 
 Welcome to **Pro Bank**, a modern and sleek banking landing page designed to showcase the future of digital banking. This project is a **fake banking website** created for demonstration purposes only. It is not affiliated with any real financial institution and does not handle real transactions or sensitive data.
 
-<<<<<<< HEAD
-Visit the live demo here: work in progress ...
-=======
 Visit the live demo here: (https://probank.netlify.app/)
->>>>>>> a5c16f35e9e655e3601c2cade610ab24d4dfc9d9
 
 ---
 
@@ -51,7 +47,7 @@ This project is purely for **educational and portfolio purposes** and does not r
 - **Animations**:
   - [Framer Motion](https://www.framer.com/motion/) for smooth animations
 - **Deployment**:
-  - Hosted on [Netlify](https://www.netlify.com/) 
+  - Hosted on [Netlify](https://www.netlify.com/)
 
 ---
 
@@ -60,10 +56,11 @@ This project is purely for **educational and portfolio purposes** and does not r
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-  ```
-   git clone https://github.com/magdalenapetrushevska/probank_website
-   cd probank
-   ```
+
+```
+ git clone https://github.com/magdalenapetrushevska/probank_website
+ cd probank
+```
 
 2.  **Install dependencies**:
 
@@ -72,12 +69,14 @@ npm install
 ```
 
 3. **Start the development server**:
+
 ```
 npm run dev
 Open your browser and navigate to http://localhost:3000 to view the project.
 ```
 
 ## Contributing
+
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
@@ -91,9 +90,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
+
 If you have any questions or feedback, feel free to reach out:
 
 **Project Link**: https://github.com/magdalenapetrushevska/probank_website
