@@ -97,11 +97,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you have any questions or feedback, feel free to reach out:
 
-**Project Link**: https://github.com/magdalenapetrushevska/probank_website
-
-**Live Demo**: work in progress ...
-
-**Author**: Magdalena Petrushevska
 
 Thank you for checking out Pro Bank! 🚀
 
