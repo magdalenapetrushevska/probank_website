@@ -98,6 +98,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you have any questions or feedback, feel free to reach out:
 
 
-Thank you for checking out Pro Bank! 🚀
+Happy coding! 🚀
 
 
